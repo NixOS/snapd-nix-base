@@ -2,6 +2,10 @@ Have a Snapcraft-capable machine
 
 Hint: NixOS doesn't have Snapcraft at the time of publishing.
 
+Be part of the NixOS Foundation organization on Snapcraft:
+
+    https://snapcraft.io/nix-base
+
 Then:
 
 1. `snapcraft login`

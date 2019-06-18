@@ -4,4 +4,4 @@ set -eux
 
 resultpath=$(nix-build .)
 snapcraft push --release=stable \
-          "$resultpath/nix-base_*_all.snap"
+          "$resultpath/"nix-base_*_all.snap
